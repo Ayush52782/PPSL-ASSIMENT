@@ -34,3 +34,4 @@ cout << endl; // For better readability
 cout << "c2 Information:" << endl;
 c2.displayInfo();
 return 0;
+}
